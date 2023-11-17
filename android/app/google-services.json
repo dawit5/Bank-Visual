@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748465375770",
+    "project_id": "bank-visual",
+    "storage_bucket": "bank-visual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748465375770:android:fc41dfd1628db5a1ab1fa3",
+        "android_client_info": {
+          "package_name": "com.example.bankvisual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748465375770-j3nl3lomhejqa59ic23kgsg2bcl2sv2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bankvisual",
+            "certificate_hash": "9f463c6a492ecfa07fcf1f1403892121648c2c84"
+          }
+        },
+        {
+          "client_id": "748465375770-e5oj5tu81q7itpouunkabccgnuc10857.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8baK_SsrqPNVyKz7L_-4dlfKE6K1IjRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748465375770-e5oj5tu81q7itpouunkabccgnuc10857.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
